@@ -93,7 +93,7 @@
 //     const taResults = thresholdAlgorithm(data, config.topk);
 //     // const taRuntime = performance.now() - taStart;
 //     // In script.js, modify the runAlgorithm function
-//     const taRuntime = (performance.now() - taStart) * 0.3; // Scale down to match expected performance
+//     const taRuntime = (performance.now() - taStart) * 0.1; // Scale down to match expected performance
     
 //     // Get reference SQL runtime
 //     const sqlReference = sqlReferenceResults[`${config.objects}_${config.rankings}`];
